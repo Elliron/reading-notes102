@@ -18,4 +18,4 @@ As Naruto Uzumaki once said
 
 [Markdown](markdown.md)
 [Computer](Computer.md)
-[Revisions(revisions.md)
+[Revisions](revisions.md)
