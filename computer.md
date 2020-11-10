@@ -1,5 +1,5 @@
-#Text Editor
-##Command Line
+# Text Editor
+## Command Line
 Growing up my family had an old Commodore 64, at the time we didnt have any fancy graphics or icons to click on.  We had to type everything into a Command Line or Terminal, 
 I would have to type things like CD(change directory) to open different files and folders.  I would use ls to see what different files and folders could be opened, eventually
 I would get to my very beloved Wolfenstein game.
