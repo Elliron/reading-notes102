@@ -8,5 +8,5 @@ Hi everyone, my name is Glenn Elliron Clark and I go by he/him.  I am a former M
 Table of Contents
 - [Growth](growth.md)
 - [Markdown](markdown.md)
-- [Computer](Computer.md)
+- [Computer](computer.md)
 - [Revisions](revisions.md)
