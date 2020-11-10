@@ -15,3 +15,7 @@ A Growth Mindset is a way of thinking that allows us to reach our full potential
 
 As Naruto Uzumaki once said
  > Hardwork is worthless, for those who don't believe in themselves.
+
+[Markdown](markdown.md)
+[Computer](Computer.md)
+[Revisions(revisions.md)
