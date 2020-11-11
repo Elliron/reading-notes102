@@ -12,3 +12,4 @@ Table of Contents
 - [Revisions](revisions.md)
 - [HTML](html.md)
 - [CSS](css.md)
+- [Javascript](javascript-6a.md)
