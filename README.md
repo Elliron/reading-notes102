@@ -10,3 +10,4 @@ Table of Contents
 - [Markdown](markdown.md)
 - [Computer](computer.md)
 - [Revisions](revisions.md)
+- [HTML](html.md)
