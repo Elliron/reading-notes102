@@ -13,3 +13,4 @@ Table of Contents
 - [HTML](html.md)
 - [CSS](css.md)
 - [Javascript](javascript-6a.md)
+- [Architecture](architecture.md)
