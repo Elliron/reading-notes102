@@ -2,7 +2,8 @@
 
 ## This is the HTML file I created that will be include an interactive javascript function.
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
     <head>
         <title>Constructive &amp; Co.</title>
@@ -20,7 +21,8 @@
 
 ## This is the javascript function that greets the visitor with the time of day.
 
-```var today = new Date();
+```
+var today = new Date();
 var hourNow = today.getHours();
 var greeting;
 
@@ -34,6 +36,8 @@ if (hourNow > 18) {
     greeting = 'Welcome!';
 }
 
-document.write('<h3>' + greeting + '</h3>');```
+document.write('<h3>' + greeting + '</h3>');
+```
 
-[<==Back](README.md)
+
+[<==Back[README.md)
