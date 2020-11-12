@@ -14,3 +14,5 @@ Table of Contents
 - [CSS](css.md)
 - [Javascript](javascript-6a.md)
 - [Architecture](architecture.md)
+- [JSProgramming](README.md)
+- [Operators and Loops](operatorsLoops.md)
